@@ -1,0 +1,8 @@
+{
+  "name": "Lumina IPTV AI Panel",
+  "description": "A high-performance IPTV streaming dashboard with AI-powered content analysis and smart categorization using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
